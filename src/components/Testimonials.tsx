@@ -5,20 +5,20 @@ const Testimonials = () => {
     {
       name: "Carlos Silva",
       business: "Barbearia Moderna - São Paulo",
-      text: "O coiffeurS revolucionou minha barbearia. Em 3 meses, aumentei 40% o faturamento só pela organização dos agendamentos. Os clientes adoram acompanhar a fila pelo painel digital.",
+      text: "A coiffeurS revolucionou minha barbearia. Aumentei 40% o faturamento só pela organização dos agendamentos. Os clientes adoram acompanhar a fila pelo painel digital.",
       rating: 5,
       avatar: "C"
     },
     {
       name: "Rafael Santos",
-      business: "Corte & Estilo - Rio de Janeiro", 
-      text: "Antes perdia muito tempo com agendamentos por telefone. Agora tudo é automático e consigo focar no que faço de melhor: cortar cabelo. O suporte é excepcional!",
+      business: "Corte & Estilo - São Paulo", 
+      text: "Antes perdia muito tempo com agendamentos manuais. Agora tudo é automático e consigo focar no que faço de melhor: cortar cabelo. O suporte é excepcional!",
       rating: 5,
       avatar: "R"
     },
     {
       name: "André Costa",
-      business: "Barbershop Premium - Brasília",
+      business: "Barbershop Premium - São Paulo",
       text: "Os relatórios me ajudaram a entender melhor meu negócio. Descobri quais serviços são mais procurados e ajustei minha estratégia. Resultado: 60% mais lucro.",
       rating: 5,
       avatar: "A"
@@ -33,7 +33,7 @@ const Testimonials = () => {
             O que dizem nossos parceiros
           </h2>
           <p className="text-xl text-muted-foreground max-w-3xl mx-auto">
-            Barbeiros de todo o Brasil já transformaram seus negócios com o coiffeurS.
+           Diversas barbearias já transformaram seus negócios com o coiffeurS.
           </p>
         </div>
 

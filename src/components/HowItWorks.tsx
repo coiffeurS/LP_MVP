@@ -12,7 +12,7 @@ const HowItWorks = () => {
       icon: Calendar,
       step: "02", 
       title: "Configuração Personalizada",
-      description: "Configuramos o sistema especialmente para sua barbearia, incluindo agenda, serviços e preços."
+      description: "Configuramos o sistema especialmente para sua barbearia, deixando-o pronto para uso."
     },
     {
       icon: TrendingUp,

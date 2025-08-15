@@ -10,17 +10,17 @@ const Features = () => {
     {
       icon: Calendar,
       title: "Agenda & Agendamentos",
-      description: "Sistema inteligente de agendamento com notificações automáticas e gestão de horários."
+      description: "Sistema inteligente de agendamento com whatsapp integrado e gestão de horários."
     },
     {
       icon: BarChart3,
       title: "Dashboards",
-      description: "Relatórios em tempo real sobre faturamento, clientes mais frequentes e performance do negócio."
+      description: "Relatórios em tempo real sobre faturamento e performance do negócio e detalhes das transações diárias."
     },
     {
       icon: Clock,
       title: "Fila Pública",
-      description: "Painel digital para clientes acompanharem a fila em tempo real, reduzindo espera e melhorando experiência."
+      description: "Painel público para clientes acompanharem a fila em tempo real, reduzindo espera e melhorando experiência."
     }
   ];
 
