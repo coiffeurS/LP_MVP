@@ -4,7 +4,7 @@ import loginPreview from "@/assets/login-preview.png";
 
 const Hero = () => {
   const handleWhatsAppClick = () => {
-    window.open("https://wa.me/5511999999999?text=Olá! Gostaria de saber mais sobre o coiffeurS para minha barbearia.", "_blank");
+    window.open(import.meta.env.VITE_CONTACT_LINK, "_blank");
   };
 
   return (
